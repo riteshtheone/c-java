@@ -23,8 +23,6 @@ int findHcf(int arr[], int n){
 int main(){
 
     cout << "Hello c++" << endl;
-    int a;
-    cin >> a;
 
     int arr[] = {2,6,18,28};
     int n = sizeof(arr)/sizeof(arr[0]);
